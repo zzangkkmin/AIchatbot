@@ -1,4 +1,4 @@
-# SSAFY AI/ML 프로젝트 - Sub PJT 3
+# SSAFY AI/ML 프로젝트 - MoyaMoya
 
 > ### 딥 러닝 모델을 이용한 챗봇 구현
 
